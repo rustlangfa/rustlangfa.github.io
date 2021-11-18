@@ -1,0 +1,16 @@
+body, html{
+    direction: rtl !important;
+    text-align: right;
+}
+
+body{
+    font-family: 'IranSans' !important;
+}
+
+.header .menu__inner li:not(:last-of-type){
+    margin: 0 0 10px 20px !important;
+}
+
+.post{
+    text-align: right !important;
+}

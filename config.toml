@@ -1,0 +1,7 @@
+baseURL = 'https://rustlangfa.github.io/'
+languageCode = 'en-us'
+title = 'راست لنگ فا'
+theme = "terminal"
+[params]
+  fullWidthTheme = false
+  centerTheme = true
